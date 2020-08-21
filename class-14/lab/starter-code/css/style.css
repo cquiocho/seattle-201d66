@@ -1,1 +1,23 @@
 /* TODO: Make it awesome */
+body {
+    margin: 30px 50px;
+    background-color: rgb(223, 217, 217);
+}
+
+header {
+    color:  rgb(223, 217, 217);
+    text-align: center;
+    font-size: 5em;
+    background-color: rgb(243, 182, 51);
+    padding: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: x-large;
+}
+
+li {
+    text-align: center;
+    margin-top: 30px;
+}
